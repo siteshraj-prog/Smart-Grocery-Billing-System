@@ -93,24 +93,9 @@ Bill saved to text file using UTF-8 encoding
 
 Beginner-friendly design
 
-8. Sample Input
-Enter Customer Name: Anita
-Enter item to buy: Rice
-Enter quantity: 2
-Enter item to buy: Eggs
-Enter quantity: 12
-Enter item to buy: done
-
-9. Sample Output
-===== Final Bill =====
-Rice - 2 pcs → 110
-Eggs - 12 pcs → 84
-
-Total Amount: 194
-Bill saved successfully as Anita_bill.txt
 
 
-
-10.conclusion
+8.conclusion
 
 The Smart Grocery Billing System demonstrates the application of fundamental programming principles in solving a real-world problem. It reinforces the concepts of modular design, data manipulation, and structured implementation, making it an excellent introductory-level academic project.
+
