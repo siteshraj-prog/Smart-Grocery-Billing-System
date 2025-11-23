@@ -1,0 +1,7 @@
+Grocery Billing System
+Customer: sitesh
+
+Item               Qty       Price
+Rice              2         110
+
+Total: ₹110
